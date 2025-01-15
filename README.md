@@ -38,7 +38,7 @@
 <img src="15.jpg" alt="Một bức ảnh đẹp" width="1250" height="572">
 <br>
 <video width="1250" height="572" controls>
-  <source src="1.mp4" type="video/mp4"  width="1250" height="572">
+  <source src="1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </body>
