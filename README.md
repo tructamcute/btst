@@ -41,8 +41,6 @@
   <source src="1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-   </div>
-                                        <a href="https://tructamcute.github.io/nhom6_12L/">Quay lại trang chủ</a>
-                            </div>           
+<a href="https://tructamcute.github.io/nhom6_12L/">Quay lại trang chủ</a>
 </body>
 </html>
