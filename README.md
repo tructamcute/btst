@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    h1 {
+      display: none;
+      }
   body {
-  position: relative; /* Hoặc absolute, fixed */
-  width: 100%;
-  height: 100vh; /* 1vh = 1% chiều cao viewport */
+  position: relative;
+  width: 1025;
+  height: 572px;
 }   
+  </style>
 </head>
 <body>
 <img src="1.jpg" alt="Một bức ảnh đẹp">
