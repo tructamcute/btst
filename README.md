@@ -7,7 +7,7 @@
       }
   body {
   position: relative;
-  width: 1025;
+  width: 1025px;
   height: 572px;
 }   
   </style>
