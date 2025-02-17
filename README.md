@@ -41,6 +41,50 @@
   <source src="1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<img src="16.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="17.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="18.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="19.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="20.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="21.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="22.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="23.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="24.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="25.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="26.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="27.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="28.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="29.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="30.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="31.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="32.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="33.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="34.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="35.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="36.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
+<img src="37.jfif" alt="Một bức ảnh đẹp" width="1250" height="572">
+<br>
 <a href="https://tructamcute.github.io/nhom6_12L/">Quay lại trang chủ</a>
 </body>
 </html>
